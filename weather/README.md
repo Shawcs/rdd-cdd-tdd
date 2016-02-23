@@ -10,7 +10,7 @@ on past weather on a specific area you can simply found it with this library. Le
 
 Open your console a tip
 
-'''bash
+```bash
 $ cd rdd-cdd-tdd\weather
 $ npm install
 
@@ -19,7 +19,7 @@ $ npm install
 
 basique launch
 
-'''bash
+```bash
 $ node index.js #output the wether for your location
 
 
