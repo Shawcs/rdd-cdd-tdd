@@ -11,7 +11,7 @@ var units = {
         speed: 'mph'
     };
 
-var ip = '';
+var ip = '46.218.45.195'; //added by me
 
 publicIp(function (err, res) {
     if (err) {
