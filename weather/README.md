@@ -1,8 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
-
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
-
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
 
 # cli-weather
 
