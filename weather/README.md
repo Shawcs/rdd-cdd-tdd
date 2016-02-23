@@ -13,7 +13,7 @@ Open your console a tip
 ```bash
 $ cd rdd-cdd-tdd\weather
 $ npm install
-
+```
 
 ##Usage
 
@@ -21,7 +21,7 @@ basique launch
 
 ```bash
 $ node index.js #output the wether for your location
-
+```
 
 
 
