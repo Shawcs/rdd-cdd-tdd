@@ -26,10 +26,8 @@ $ node index.js #output the wether for your location
 ```
 
 ## Option
-you can change the units with:
-```
-Type
-```
+you can change the units with this command
+```node index --config ``` and then you can add one of the option above
 ```us: ```The default, as outlined above.
 ```si:``` Returns results in SI units.
 ```ca:``` Identical to si, except that windSpeed is in kilometers per hour.
