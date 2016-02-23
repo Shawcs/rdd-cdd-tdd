@@ -9,6 +9,14 @@ var args = require('./args'),
 var path = pathing.dirname(require.main.filename) + '/lib/config.json',
     help = require('./help');
 
+
+
+
+/**
+ * @param {[type]}
+ * @param {[type]}
+ */
+
 function Config(units, ip) {
     this.args = parseArgs(process.argv.slice(2));
     this.units = units;
@@ -54,6 +62,14 @@ if(!String.prototype.includes) {
 }
 
 
+/**
+ * to write the data in the memory
+ *
+ * @method     write
+ * @param      {<type>}  args    { description }
+ * @param      {<type>}  units   { description }
+ * @param      {<type>}  ip      { description }
+ */
 function write(args, units, ip) {
 
     console.log(chalk.red('you may have to use ') + chalk.bgBlack.white('sudo') +
@@ -72,7 +88,14 @@ function write(args, units, ip) {
     });
 
 }
-
+/**
+ * to read the preset data
+ *
+ * @method     read
+ * @param      {<type>}  args    { description }
+ * @param      {<type>}  units   { description }
+ * @param      {tring}  ip      { description }
+ */
 function read(args, units, ip) {
 
     if (args.c && !(args.s || args.save)) {
