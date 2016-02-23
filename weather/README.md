@@ -8,7 +8,7 @@ But first
 
 #Install
 
-Open your console and tip
+Open your console and type
 
 ```bash
 $ cd rdd-cdd-tdd\weather
@@ -40,6 +40,15 @@ you can change the units with this command
 
 - You can choose your area with ```node index --address ```
 - Or you can use more acurate technique with Longitude and Latitude ```node index --lat --long```
+
+## Help
+
+Of course we have the help function ```node index --help ```
+
+## Save
+
+To save your search result you can type ```node index --save ```.
+So now you have a preset loaded.
 
 ##Test
 
