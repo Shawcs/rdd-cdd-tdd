@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
+[![Github All Releases](https://img.shields.io/github/downloads/92bondstreet/92bondstreet/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
 
 # cli-weather
 
