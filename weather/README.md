@@ -1,12 +1,12 @@
 # cli-weather
 
-##INTRODUCTION
+#INTRODUCTION
 
 Weather is a library verry use full for weather lovers. If you whant to do statistics
 on weather on a specific area this library is perfect. It use forecast web site to get the datas. Let's focus on the content.
 But first 
 
-##Install
+#Install
 
 Open your console and tip
 
@@ -25,8 +25,8 @@ and then try
 $ node index.js #output the wether for your location
 ```
 
-## Option
-#Units
+# Option
+##Units
 you can change the units with this command
 
 ```node index --config ``` and then you can add one of the option above
@@ -36,7 +36,7 @@ you can change the units with this command
 - ```uk2:``` Identical to si, except that windSpeed is in miles per hour, and nearestStormDistance and visibility are in miles, as in the US. (This option is provided because adoption of SI in the UK has been inconsistent.)
 - ```auto:``` Selects the relevant units automatically, based on geographic location.
 
-#Area
+##Area
 
 - You can choose your area with ```node index --address ```
 - Or you can use more acurate technique with Longitude and Latitude ```node index --lat --long```
