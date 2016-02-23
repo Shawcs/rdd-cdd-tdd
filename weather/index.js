@@ -6,7 +6,7 @@ var publicIp = require('public-ip'),
     events = require('events');
 
 var units = {
-        type: 'us',
+        type: 'si',
         tmp: '˚F',
         speed: 'mph'
     };

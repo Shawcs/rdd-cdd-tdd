@@ -3,7 +3,7 @@
 ##INTRODUCTION
 
 Weather is a library verry use full for weather lovers. If you whant to do statistics
-on past weather on a specific area this library is perfect. It use forecast web site to get the datas. Let's focus on the content.
+on weather on a specific area this library is perfect. It use forecast web site to get the datas. Let's focus on the content.
 But first 
 
 ##Install
@@ -19,19 +19,22 @@ here you are ready to go
 ##Usage
 
 to perform a basique launch take your ip and past it in index.js in
- ```js var ip='';```
+ ``` var ip='';```
 and then try
 ```bash
 $ node index.js #output the wether for your location
 ```
 
-## Working 
-
-#Data collection
-
-
-data.js is here to collect the data from
-
+## Option
+you can change the units with:
+```
+Type
+```
+```us: ```The default, as outlined above.
+```si:``` Returns results in SI units.
+```ca:``` Identical to si, except that windSpeed is in kilometers per hour.
+```uk2:``` Identical to si, except that windSpeed is in miles per hour, and nearestStormDistance and visibility are in miles, as in the US. (This option is provided because adoption of SI in the UK has been inconsistent.)
+```auto:``` Selects the relevant units automatically, based on geographic location.
 
 ##Test
 
