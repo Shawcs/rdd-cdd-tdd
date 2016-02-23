@@ -1,6 +1,5 @@
 [![Github All Releases](https://img.shields.io/github/downloads/92bondstreet/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/92bondstreet/rdd-cdd-tdd) [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/92bondstreet/rdd-cdd-tdd/blob/master/weather)
 
-.. image:: https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork   :target: https://github.com/Shawcs/rdd-cdd-tdd/network
 # cli-weather
 
 #INTRODUCTION
