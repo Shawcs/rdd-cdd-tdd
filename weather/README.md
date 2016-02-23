@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/92bondstreet/92bondstreet/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github All Releases](https://img.shields.io/github/downloads/92bondstreet/92bondstreet/total.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/92bondstreet/rdd-cdd-tdd)
 
 # cli-weather
 
